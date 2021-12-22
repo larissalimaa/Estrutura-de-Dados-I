@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567192655 source:/home/sala/Downloads/DCC013/TADVetor/Vetor.cpp
+	<iostream>
+	<cstdlib>
+	"Vetor.h"
+
+1567192739 /home/sala/Downloads/DCC013/TADVetor/Vetor.h
+
+1567192655 source:/home/sala/Downloads/DCC013/TADVetor/main.cpp
+	<iostream>
+	"Vetor.h"
+

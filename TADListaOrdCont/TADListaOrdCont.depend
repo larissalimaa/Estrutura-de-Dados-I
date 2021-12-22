@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570653739 source:/home/sala/Downloads/DCC013/TADListaOrdCont/main.cpp
+	<iostream>
+	"ListaOrdCont.h"
+
+1570652632 /home/sala/Downloads/DCC013/TADListaOrdCont/ListaOrdCont.h
+
+1570653715 source:/home/sala/Downloads/DCC013/TADListaOrdCont/ListaOrdCont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaOrdCont.h"
+

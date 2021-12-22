@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1573674893 source:/home/sala/Downloads/DCC013/TADArvBinBusca/main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1573674888 /home/sala/Downloads/DCC013/TADArvBinBusca/ArvBinBusca.h
+	"NoArv.h"
+
+1573070958 /home/sala/Downloads/DCC013/TADArvBinBusca/NoArv.h
+
+1573677235 source:/home/sala/Downloads/DCC013/TADArvBinBusca/ArvBinBusca.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"ArvBinBusca.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567196787 source:/home/sala/Downloads/DCC013/Matriz2D/main.cpp
+	<iostream>
+	"Matriz2D.h"
+
+1567196793 /home/sala/Downloads/DCC013/Matriz2D/Matriz2D.h
+
+1567196803 source:/home/sala/Downloads/DCC013/Matriz2D/Matriz2D.cpp
+	<iostream>
+	<cstdlib>
+	"Matriz2D.h"
+

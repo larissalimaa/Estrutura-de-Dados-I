@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569444291 source:c:\users\saulo\downloads\dcc013\tadlistacirc\main.cpp
+	<iostream>
+	"ListaCirc.h"
+
+1569443681 c:\users\saulo\downloads\dcc013\tadlistacirc\listacirc.h
+	"NoDuplo.h"
+
+1569443681 c:\users\saulo\downloads\dcc013\tadlistacirc\noduplo.h
+
+1569444851 source:c:\users\saulo\downloads\dcc013\tadlistacirc\listacirc.cpp
+	<iostream>
+	"ListaCirc.h"
+

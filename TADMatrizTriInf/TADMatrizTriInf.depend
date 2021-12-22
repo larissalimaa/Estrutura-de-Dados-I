@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567627789 source:/home/sala/Downloads/DCC013/TADMatrizTriInf/main.cpp
+	<iostream>
+	"MatrizTriInf.h"
+
+1567627789 /home/sala/Downloads/DCC013/TADMatrizTriInf/MatrizTriInf.h
+
+1567627795 source:/home/sala/Downloads/DCC013/TADMatrizTriInf/MatrizTriInf.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizTriInf.h"
+

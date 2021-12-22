@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567802787 source:/home/sala/Downloads/DCC013/TADMatrizAntiSimetrica/main.cpp
+	<iostream>
+	"MatrizAntiSimetrica.h"
+
+1567802201 /home/sala/Downloads/DCC013/TADMatrizAntiSimetrica/MatrizAntiSimetrica.h
+
+1567802707 source:/home/sala/Downloads/DCC013/TADMatrizAntiSimetrica/MatrizAntiSimetrica.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizAntiSimetrica.h"
+

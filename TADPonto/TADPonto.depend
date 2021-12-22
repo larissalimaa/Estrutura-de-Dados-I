@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567023702 source:/home/sala/Downloads/DCC013/TADPonto/main.cpp
+	<iostream>
+	"Ponto.h"
+
+1567023427 /home/sala/Downloads/DCC013/TADPonto/Ponto.h
+
+1567023712 source:/home/sala/Downloads/DCC013/TADPonto/Ponto.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+

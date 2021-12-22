@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567627964 source:/home/sala/Downloads/DCC013/TADMatrizDiag/main.cpp
+	<iostream>
+	"MatrizDiag.h"
+
+1567626223 /home/sala/Downloads/DCC013/TADMatrizDiag/MatrizDiag.h
+
+1567627913 source:/home/sala/Downloads/DCC013/TADMatrizDiag/MatrizDiag.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizDiag.h"
+

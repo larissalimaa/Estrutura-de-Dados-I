@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1569008627 source:/home/sala/Downloads/DCC013/TADListaEncad/main.cpp
+	<iostream>
+	"ListaEncad.h"
+
+1569007669 /home/sala/Downloads/DCC013/TADListaEncad/ListaEncad.h
+	"No.h"
+
+1568836020 /home/sala/Downloads/DCC013/TADListaEncad/No.h
+
+1569008794 source:/home/sala/Downloads/DCC013/TADListaEncad/ListaEncad.cpp
+	<iostream>
+	"ListaEncad.h"
+
+1569012178 source:/home/sala/Downloads/DCC013/TADListaEncad Desc/main.cpp
+	<iostream>
+	"ListaEncad.h"
+
+1569012990 /home/sala/Downloads/DCC013/TADListaEncad Desc/ListaEncad.h
+	"No.h"
+
+1568836020 /home/sala/Downloads/DCC013/TADListaEncad Desc/No.h
+
+1569013033 source:/home/sala/Downloads/DCC013/TADListaEncad Desc/ListaEncad.cpp
+	<iostream>
+	"ListaEncad.h"
+

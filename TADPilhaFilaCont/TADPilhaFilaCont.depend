@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1569613663 source:c:\users\saulo\downloads\dcc013\tadpilhafilacont\pilhacont.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaCont.h"
+
+1569613593 .h"
+
+1569613593 c:\users\saulo\downloads\dcc013\tadpilhafilacont\pilhacont.h
+
+1569613593 source:c:\users\saulo\downloads\dcc013\tadpilhafilacont\main.cpp
+	<iostream>
+	"PilhaCont.h"
+
+1569617611 source:c:\users\saulo\downloads\dcc013\tadpilhafilacont\filacont.cpp
+	<iostream>
+	<cstdlib>
+	"FilaCont.h"
+
+1569617611 h"
+
+1569617611 c:\users\saulo\downloads\dcc013\tadpilhafilacont\filacont.h
+
+1569606812 source:/home/sala/Downloads/DCC013/TADPilhaFilaCont/FilaCont.cpp
+	<iostream>
+	<cstdlib>
+	"FilaCont.h"
+
+1569606812 /home/sala/Downloads/DCC013/TADPilhaFilaCont/FilaCont.h
+
+1569606818 source:/home/sala/Downloads/DCC013/TADPilhaFilaCont/main.cpp
+	<iostream>
+	"PilhaCont.h"
+	"FilaCont.h"
+
+1569602794 /home/sala/Downloads/DCC013/TADPilhaFilaCont/PilhaCont.h
+
+1570654117 source:/home/sala/Downloads/DCC013/TADPilhaFilaCont/PilhaCont.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaCont.h"
+

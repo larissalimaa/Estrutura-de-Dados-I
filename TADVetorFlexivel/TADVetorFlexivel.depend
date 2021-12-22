@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567195049 source:/home/sala/Downloads/DCC013/TADVetorFlexivel/main.cpp
+	<iostream>
+	"VetorFlexivel.h"
+
+1567193681 /home/sala/Downloads/DCC013/TADVetorFlexivel/VetorFlexivel.h
+
+1567195105 source:/home/sala/Downloads/DCC013/TADVetorFlexivel/VetorFlexivel.cpp
+	<iostream>
+	<cstdlib>
+	"VetorFlexivel.h"
+

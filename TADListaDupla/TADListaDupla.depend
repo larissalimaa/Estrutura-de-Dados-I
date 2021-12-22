@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569441983 source:c:\users\saulo\downloads\dcc013\tadlistadupla\listadupla.cpp
+	<iostream>
+	"ListaDupla.h"
+
+1569441998 c:\users\saulo\downloads\dcc013\tadlistadupla\listadupla.h
+	"NoDuplo.h"
+
+1569441983 c:\users\saulo\downloads\dcc013\tadlistadupla\noduplo.h
+

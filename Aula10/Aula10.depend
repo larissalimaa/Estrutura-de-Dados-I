@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573676476 source:/home/sala/Downloads/Aula10/main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1573676474 /home/sala/Downloads/Aula10/ArvBin.h
+	"NoArv.h"
+
+1529358780 /home/sala/Downloads/Aula10/NoArv.h
+
+1573676474 source:/home/sala/Downloads/Aula10/ArvBin.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<cmath>
+	"ArvBin.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567629839 source:/home/sala/Downloads/DCC013/TADMatrizSimetrica/MatrizSimetrica.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizSimetrica.h"
+
+1567628693 /home/sala/Downloads/DCC013/TADMatrizSimetrica/MatrizSimetrica.h
+
+1567629847 source:/home/sala/Downloads/DCC013/TADMatrizSimetrica/main.cpp
+	<iostream>
+	"MatrizSimetrica.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1569605030 source:/home/sala/Downloads/DCC013/TADPilhaFilaEncad/PilhaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1569605030 /home/sala/Downloads/DCC013/TADPilhaFilaEncad/PilhaEncad.h
+	"No.h"
+
+1569604904 /home/sala/Downloads/DCC013/TADPilhaFilaEncad/No.h
+
+1570219174 source:/home/sala/Downloads/DCC013/TADPilhaFilaEncad/main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1570218633 /home/sala/Downloads/DCC013/TADPilhaFilaEncad/FilaEncad.h
+	"No.h"
+
+1570219204 source:/home/sala/Downloads/DCC013/TADPilhaFilaEncad/FilaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567021005 source:/home/sala/Downloads/DCC013/TADRelogio/main.cpp
+	<iostream>
+	"Relogio.h"
+
+1567020928 /home/sala/Downloads/DCC013/TADRelogio/Relogio.h
+
+1567021054 source:/home/sala/Downloads/DCC013/TADRelogio/Relogio.cpp
+	<iostream>
+	"Relogio.h"
+
